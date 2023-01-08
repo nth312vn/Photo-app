@@ -1,0 +1,17 @@
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 70px;
+
+  background-color: lightblue;
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  .header-link {
+    text-decoration: none;
+    font-weight: 500;
+  }
+}
